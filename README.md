@@ -1,0 +1,1 @@
+# LM358-Heat-Activated-Switch-Thermistor-
